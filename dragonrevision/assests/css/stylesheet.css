@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    background-color: #7B83C5;
+    font-family: Impact, Charcoal, sans-serif;
+    opacity: 75%;
+}
+.content {
+    background-color: #C6DCDE;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: 'Times New Roman', serif;
+    opacity: 75%;
+}
+h6 {
+    text-align: center;
+    background-color: #7B83C5;
+}
+.nav {
+    background-color: #CFCFCF;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 75%;
+}
+body {
+    background-image: url("../img/bg.png");
+    background-repeat: repeat;
+}
+.veh {
+    text-align: center;
+}
+.tabhis {
+    border: solid;
+    margin-right: auto;
+    margin-left: auto;
+}
+img{
+  max-width:100%;
+  height:auto;
+}
